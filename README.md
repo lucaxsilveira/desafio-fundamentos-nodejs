@@ -15,7 +15,7 @@
 ### `yarn`
 To install all necessary packages
 
-### `yarn dev::server`
+### `yarn dev:server`
 To run a developmet server
 
 ### `yarn test`
